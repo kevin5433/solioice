@@ -1,0 +1,14 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://s16.buyplus1.com.tw/b/1460535560628722/index.php?route=product/product&path=30&product_id=6049"
+    },
+    "url": "https://i.ibb.co/SQ8z7tV/219479386-5072755242740051-2875028380207913839-n.jpg"
+  }
+}
